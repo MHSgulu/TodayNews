@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">热点新闻</string>
+
+    <!--菜单名称-->
+    <string name="nav_title_1">新闻</string>
+    <string name="nav_title_2">分类</string>
+
+    <!--页面-->
+    <string name="newsTitle">新闻详情</string>
+    <string name="real_time_hotspot">实时热点</string>
+    <string name="real_time_hot_spot">实时热点</string>
+    <string name="category_title">热点分类</string>
+    <string name="search_news">点击此处搜索你想了解的新闻</string>
+    <string name="search_news_key_word">在此处输入关键词</string>
+    <string name="search">搜索</string>
+
+
+    <!--Tab标题-->
+    <!--新闻模块-->
+    <string name="tab_title_1">头条</string>
+    <string name="tab_title_2">新闻</string>
+    <string name="tab_title_3">国内</string>
+    <string name="tab_title_4">国际</string>
+    <string name="tab_title_5">政治</string>
+    <string name="tab_title_6">财经</string>
+    <string name="tab_title_7">体育</string>
+    <string name="tab_title_8">娱乐</string>
+    <string name="tab_title_9">军事</string>
+    <string name="tab_title_10">教育</string>
+    <string name="tab_title_11">科技</string>
+    <string name="tab_title_12">NBA</string>
+    <string name="tab_title_13">股票</string>
+    <string name="tab_title_14">星座</string>
+    <string name="tab_title_15">女性</string>
+    <string name="tab_title_16">健康</string>
+    <string name="tab_title_17">育儿</string>
+
+
+    <!--xml控件内容描述  比如图像视图-->
+    <string name="contentDescription_1">这是一个图片，点击进入热点排行</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

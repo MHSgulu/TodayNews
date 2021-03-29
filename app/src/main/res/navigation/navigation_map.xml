@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_map"
+    app:startDestination="@id/navigation_1">
+
+
+    <fragment
+        android:id="@+id/navigation_1"
+        android:name="com.design.todaynews.ui.fragment.NewsHomeFragment"
+        android:label="@string/nav_title_1"
+        tools:layout="@layout/fragment_news_home" />
+
+    <fragment
+        android:id="@+id/navigation_2"
+        android:name="com.design.todaynews.ui.fragment.NewsCategoryFragment"
+        android:label="@string/nav_title_2"
+        tools:layout="@layout/fragment_news_category" />
+
+
+
+</navigation>
